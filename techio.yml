@@ -3,4 +3,4 @@ plan:
 - title: Page-1 part 1 blablabla 
   statement: statement.md
 - title: Page-2 part 2 blablabla 
-  statement: markdowns/part2.md
+  statement: part2.md
