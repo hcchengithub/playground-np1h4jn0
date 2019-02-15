@@ -1,4 +1,6 @@
 title: HCChen's Simple Python Template 
 plan:
-- title: Title in the Plan section , was "Python Snippet"
+- title: Page-1 part 1 blablabla 
   statement: statement.md
+- title: Page-2 part 2 blablabla 
+  statement: markdowns/part2.md
